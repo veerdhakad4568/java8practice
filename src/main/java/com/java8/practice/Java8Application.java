@@ -123,7 +123,7 @@ public class Java8Application {
                                         .projects(employee.getProjects())
                                         .build())
                 .findFirst();
-        System.out.println("\n First Employee " + emp);
+        System.out.println("\n First Employee  " + emp);
     }
 
     // Flatmap Example
